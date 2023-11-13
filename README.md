@@ -32,15 +32,15 @@ We implemented several machine learning models to predict heart disease:
 
 1. **Logistic Regression**
     - Logistic regression is a linear model used for binary classification.
-    - Achieved an accuracy of approximately 88.52%.
+    - Achieved an accuracy of approximately **88.52%**.
 2. **K-Nearest Neighbors (KNN)**
     - KNN is a non-linear model that classifies data points based on the majority class of their k-nearest neighbors.
     - Achieved an accuracy of approximately 68.85% with default hyperparameters.
-    - Further hyperparameter tuning improved the accuracy to approximately 75.41%.
+    - Further hyperparameter tuning improved the accuracy to approximately **75.41%**.
 3. **Random Forest Classifier**
     - Random forests are an ensemble learning method that combines multiple decision trees.
     - Achieved an accuracy of approximately 83.61% with default hyperparameters.
-    - After hyperparameter tuning, the accuracy reached approximately 86.89%.
+    - After hyperparameter tuning, the accuracy reached approximately **86.89%**.
 
 ## Best-Performing Model - Logistic Regression
 
